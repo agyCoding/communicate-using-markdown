@@ -6,3 +6,8 @@
 ```
 This is an example of some code
 ```
+
+- [X] Open Pull Request
+- [X] Edit index.md
+- [X] Add a list
+- [ ] Create a commit
